@@ -1,0 +1,10 @@
+{
+  "window.autoDetectColorScheme": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.splitCwd": "initial",
+  "editor.tabSize": 2,
+  "editor.rulers": [
+      80
+  ],
+  "git.autofetch": true
+}
