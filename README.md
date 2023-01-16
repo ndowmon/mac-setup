@@ -11,6 +11,8 @@ This repository describes my preferences when setting up a new development envir
 1. [iTerm2](https://iterm2.com/) as my terminal 
    1. Custom key bindings (specifically, "Split Vertically"): see `./config/iterm2/ndowmon.itermkeymap`
    1. Synchronize iterm with system light/dark appearance (https://gist.github.com/FradSer/de1ca0989a9d615bd15dc6eaf712eb93)
+   1. Slide-out terminal from top - I prefer alt+cmd+down for the hotkey
+(https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen)
 1. [oh-my-zsh](https://ohmyz.sh/) as my shell
    1. theme: default (`robbyrussell`)
    1. plugins: TBD
