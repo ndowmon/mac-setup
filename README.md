@@ -16,7 +16,10 @@ This repository describes my preferences when setting up a new development envir
 (https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen)
 1. [oh-my-zsh](https://ohmyz.sh/) as my shell
    1. theme: default (`robbyrussell`)
+   1. Add the following to `~/.zshrc` to update colors when running `ls`, because cyan is bright against white: `export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd`
    1. plugins: TBD
+1. [FNM](https://github.com/Schniz/fnm) as my nodejs version manager
+   1. add the following to `~/.zshrc` to properly load `node` in new shells: `eval "$(fnm env --use-on-cd)"`
 1. [Rectangle](https://rectangleapp.com/) as my window manager
    1. config: `./config/rectangle/RectangleConfig.json`
 1. [MonitorControl](https://github.com/MonitorControl/MonitorControl) monitor brightness controller
