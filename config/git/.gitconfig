@@ -1,0 +1,15 @@
+[user]
+	name = Nick Dowmon
+	email = nick.dowmon@jupiterone.com
+	signingkey = <my-signing-key>
+[core]
+	editor = code --wait
+[push]
+	followTags = true
+	default = current
+[pull]
+  rebase = false
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true
