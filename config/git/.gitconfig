@@ -8,7 +8,7 @@
 	followTags = true
 	default = current
 [pull]
-  rebase = false
+	rebase = false
 [init]
 	defaultBranch = main
 [commit]
