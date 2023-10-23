@@ -26,5 +26,5 @@ This repository describes my preferences when setting up a new development envir
 1. [Toggle Dark Mode]() as my dark mode toggler 
    1. shortcut: `./config/mac-shortcuts/Toggle Dark Mode.shortcut`
 1. [Zoom]() as my video conference app
-1. [Insomnia]() as my API testing tool
+1. [Insomnia](https://insomnia.rest/download) as my API testing tool
 1. [Homebrew](https://brew.sh/) as my package manager
